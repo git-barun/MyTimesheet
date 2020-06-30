@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69629" started-at="2020-06-13T19:49:30Z" finished-at="2020-06-13T19:50:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69629" started-at="2020-06-13T19:49:30Z" finished-at="2020-06-13T19:50:39Z">
+      <class name="com.capGemini.Timesheet.Timesheets.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capGemini.Timesheet.Timesheets.LoginTest@4909b8da]" name="setUp" is-config="true" duration-ms="21910" started-at="2020-06-14T01:19:30Z" finished-at="2020-06-14T01:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.capGemini.Timesheet.Timesheets.LoginTest@4909b8da]" name="login" duration-ms="47492" started-at="2020-06-14T01:19:52Z" finished-at="2020-06-14T01:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capGemini.Timesheet.Timesheets.LoginTest@4909b8da]" name="tearDown" is-config="true" duration-ms="200" started-at="2020-06-14T01:20:39Z" finished-at="2020-06-14T01:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.capGemini.Timesheet.Timesheets.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+com\capGemini\Timesheet\Timesheets\Login.class
+com\capGemini\Timesheet\Timesheets\ReadData.class
+resource\CGTimeSheetBase.class
+com\capGemini\Timesheet\Timesheets\HomePage.class
+com\capGemini\Timesheet\Timesheets\IndianAppPortal.class
+com\capGemini\Timesheet\Timesheets\TalentPage.class
